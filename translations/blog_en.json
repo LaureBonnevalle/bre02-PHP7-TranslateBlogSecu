@@ -1,0 +1,10 @@
+{
+"nav_link" : "Home",
+"nav_register_link" : "Create Account",
+"nav_login_link" : "Connexion",
+"nav_logout_link" : "Logout",
+"nav_switch_link" : "Switch Language",
+"nav_link dropdown-toogle":"Categories",
+"card-text" : "Read the Post",
+"btn btn-primary" : "Read the Post"
+}

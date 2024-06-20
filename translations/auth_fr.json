@@ -1,0 +1,16 @@
+{
+"nav_link" : "Accueil",
+"nav_register_link" : "Créer un compte",
+"nav_login_link" : "Connexion",
+"nav_logout_link" : "Déconnexion",
+"nav_switch_link" : "Modifier la langue",
+"nav_link dropdown-toogle":"Categories",
+"login_email_label" : "Email",
+"login_password_label" : "Password",
+"login_submit_button" : "Connexion",
+"register_username_label" :"Nom d'Utilisateur",
+"register_email_label" :"Email",
+"register_password_label" : "Password",
+"register_confirm-password_label" : "Confirmer Mot de Passe",
+"register_submit_button" : "Enregistrer"
+}

@@ -1,0 +1,10 @@
+{
+"nav_link" : "Accueil",
+"nav_register_link" : "Créer un compte",
+"nav_login_link" : "Connexion",
+"nav_logout_link" : "Déconnexion",
+"nav_switch_link" : "Modifier la langue",
+"nav_link dropdown-toogle":"Categories" ,   
+"card-text" : "Lire l'Article",
+"btn btn-primary" : "Lire l'Article"
+}

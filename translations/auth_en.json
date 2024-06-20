@@ -1,0 +1,16 @@
+{
+"nav_link" : "Home",
+"nav_register_link" : "Create Account",
+"nav_login_link" : "Connexion",
+"nav_logout_link" : "Logout",
+"nav_switch_link" : "Switch Language",
+"nav_link dropdown-toogle":"Categories",
+"login_email_label" : "Email",
+"login_password_label" : "Password",
+"login_submit_button" : "Login",
+"register_username_label" :"Username",
+"register_email_label" :"Email",
+"register_password_label" : "Password",
+"register_confirm-password_label" : "Confirm Password",
+"register_submit_button" : "Register"
+}
